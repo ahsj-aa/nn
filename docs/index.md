@@ -1,5 +1,7 @@
 title: 主页
 
+<<<<<<< HEAD
+=======
 # [神经网络](https://github.com/OpenHUTB/nn)
 
 欢迎使用神经网络文档，该页面包含所有内容的索引。
@@ -93,6 +95,7 @@ title: 主页
 [PID](#pid)
 title: 主页
 
+>>>>>>> ebacb9ab55185c039bacca159efd32b9ac410824
 
 
 # [神经网络](https://github.com/OpenHUTB/nn)
@@ -208,7 +211,7 @@ title: 主页
 
 - [__机械臂自动抓取__](./robot_arm/README.md) - 基于Franka Panda的机械臂自动抓取仿真项目
 
-
+- [__双机器人分区巡逻与动态避障仿真__](./muscle_humaniod/index.md) - 基于 MuJoCo 的双人形机器人分区巡逻与动态避障仿真系统
 
 
 
@@ -224,8 +227,12 @@ title: 主页
 
 ## 控制  <span id="control"></span>
 
+<<<<<<< HEAD
+
+=======
 [PID](#pid)
 [__CARLA IMU 数据采集平台__](./carla_imu/carla_imu.md) — CARLA惯性测量单元数据采集与可视化驾驶平台开发汇报文档
+>>>>>>> ebacb9ab55185c039bacca159efd32b9ac410824
 
 [PID](#pid)
 
